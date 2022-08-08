@@ -1,0 +1,17 @@
+Nama App : MCP (My Cloud Player)
+
+MCP adalah sebuah music player berbasis online, dimana user dapat memainkan lagu tanpa harus menyimpan lagu-lagu, playlist, dan lagu-lagu favorit di memori external
+secara offline, dengan aplikasi ini user dapat menyimpan file-file music di custom directory mereka tanpa khawatir tertukar atau saling berbagi dengan user lainnya
+dan mengaksesnya dimana saja dan kapan saja. adalah berbasis websiter, dimana mendukung berbagai multiplatform device dan os.
+
+Fitur:
+- New User akan diberikan penyimpanan sebesar 4GB
+- User dapat mengupgrade penyimpanan hingga sebesar 256GB
+
+Harga Penyimpanan
+-   8 GB = Rp  50.000
+-  16 GB = Rp 150.000
+-  32 GB = Rp 250.000
+-  64 GB = Rp 350.000
+- 128 GB = Rp 450.000
+- 256 GB = Rp 550.000

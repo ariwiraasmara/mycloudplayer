@@ -1,0 +1,9 @@
+Yang Harus Dilakukan:
+v 1. mempelajari validation pada folder Request, berhubungan dengan FormRequest pada saat akan store and update data
+2. mempelajari policies pada folder Policy
+3. pelajari kembali tentang resource pada folder resource
+4. buat sistem generate id
+5. buat sistem crud pada controller
+6. buat tampilan, desain grafis view menggunakan bulma css
+7. pelajari kembali sistem auth
+8. buat sistem generate form template field untuk view page
